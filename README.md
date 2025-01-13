@@ -1,7 +1,7 @@
 
 # NOAA_EDA
 
-In this repository, we analyze 2018 lightning strike data collected by the National Oceanic and Atmospheric Administration (NOAA) on different states of the USA. The analysis includes various data manipulation and visualization techniques using Python and Jupyter Notebooks.
+In this repository, we analyze 2018 lightning strike data collected by the National Oceanic and Atmospheric Administration (NOAA) on different states of the USA. The analysis includes various data manipulation and visualization techniques using Python and Jupyter Notebooks. The dataset contains over 7-lakh entries.
 
 ## Notebooks
 
